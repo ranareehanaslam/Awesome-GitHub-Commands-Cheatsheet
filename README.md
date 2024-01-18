@@ -22,8 +22,7 @@ Before you get started, make sure you have GitHub CLI installed on your Windows 
 ### 1. GitHub Login
 
 ```bash
-gh auth login --with-token <your-token>
-
+gh auth login
 ```
 
 This command will prompt you to log in to your GitHub account and authenticate the CLI.
